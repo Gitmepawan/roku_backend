@@ -15,10 +15,12 @@ Vue.js
 
 ## Getting Started
 
+## Prototype Link
+https://xd.adobe.com/view/aa793f2a-8ebb-43de-8431-d8df68556950-ff2a/
 
-## Running the Frontend
+## Running the Backend 
 To get started with the video streaming app, follow these steps:
-Download the project files.
+Download the project files. "https://github.com/Gitmepawan/roku_backend"
 Import the database file located inside the "database" folder into phpMyAdmin.
 Open the project files with VS Code.
 Install the necessary node modules by typing npm audit fix --force in the terminal.
@@ -28,7 +30,7 @@ Once you've completed these steps, you should be able to see the video streaming
 
 ## Running the Frontend
 To run the frontend of the video streaming app, follow these steps:
-Download the frontend files.
+Download the frontend files. "https://github.com/fernandezjerome/Ruko-Front"
 Open the frontend files with VS Code.
 Install the necessary node modules by typing npm audit fix --force in the terminal.
 Type npm start in the terminal to start the frontend server.
@@ -36,6 +38,10 @@ The frontend should be accessible at localhost:3000.
 
 Once you've completed these steps, you should be able to use the frontend of the video streaming app.
 
+
+## Login
+once you run your file you can see the username and password from the database file which was imported in phpmyAdmin.
+you can use that username and password or you can change too. You will see the collection of movies according to permissions.
 
 ## Architecture
 The app will have separate front-end and back-end projects, and a truly component-based architecture with the front-end build will be used.
